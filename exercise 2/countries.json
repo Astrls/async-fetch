@@ -1,0 +1,975 @@
+
+[
+    {
+        "ISO Code": "*",
+        "Country": "All"
+    },
+    {
+        "ISO Code": "FR",
+        "Country": "France"
+    },
+    {
+        "ISO Code": "IT",
+        "Country": "Italy"
+    },
+    {
+        "ISO Code": "ES",
+        "Country": "Spain"
+    },
+    {
+        "ISO Code": "TR",
+        "Country": "Turkey"
+    },
+    {
+        "ISO Code": "DE",
+        "Country": "Germany"
+    },
+    {
+        "ISO Code": "PL",
+        "Country": "Poland"
+    },
+    {
+        "ISO Code": "GB",
+        "Country": "United Kingdom"
+    },
+    {
+        "ISO Code": "RU",
+        "Country": "Russia"
+    },
+    {
+        "ISO Code": "CZ",
+        "Country": "Czech Republic"
+    },
+    {
+        "ISO Code": "PT",
+        "Country": "Portugal"
+    },
+    {
+        "ISO Code": "NL",
+        "Country": "Netherlands"
+    },
+    {
+        "ISO Code": "BE",
+        "Country": "Belgium"
+    },
+    {
+        "ISO Code": "MA",
+        "Country": "Morocco"
+    },
+    {
+        "ISO Code": "PH",
+        "Country": "Philippines"
+    },
+    {
+        "ISO Code": "US",
+        "Country": "United States"
+    },
+    {
+        "ISO Code": "RO",
+        "Country": "Romania"
+    },
+    {
+        "ISO Code": "DZ",
+        "Country": "Algeria"
+    },
+    {
+        "ISO Code": "NG",
+        "Country": "Nigeria"
+    },
+    {
+        "ISO Code": "CH",
+        "Country": "Switzerland"
+    },
+    {
+        "ISO Code": "HU",
+        "Country": "Hungary"
+    },
+    {
+        "ISO Code": "TH",
+        "Country": "Thailand"
+    },
+    {
+        "ISO Code": "SE",
+        "Country": "Sweden"
+    },
+    {
+        "ISO Code": "ID",
+        "Country": "Indonesia"
+    },
+    {
+        "ISO Code": "IN",
+        "Country": "India"
+    },
+    {
+        "ISO Code": "UA",
+        "Country": "Ukraine"
+    },
+    {
+        "ISO Code": "MY",
+        "Country": "Malaysia"
+    },
+    {
+        "ISO Code": "TN",
+        "Country": "Tunisia"
+    },
+    {
+        "ISO Code": "SA",
+        "Country": "Saudi Arabia"
+    },
+    {
+        "ISO Code": "GR",
+        "Country": "Greece"
+    },
+    {
+        "ISO Code": "CI",
+        "Country": "Ivory Coast"
+    },
+    {
+        "ISO Code": "AT",
+        "Country": "Austria"
+    },
+    {
+        "ISO Code": "ZA",
+        "Country": "South Africa"
+    },
+    {
+        "ISO Code": "KR",
+        "Country": "South Korea"
+    },
+    {
+        "ISO Code": "CN",
+        "Country": "China"
+    },
+    {
+        "ISO Code": "RS",
+        "Country": "Serbia"
+    },
+    {
+        "ISO Code": "JP",
+        "Country": "Japan"
+    },
+    {
+        "ISO Code": "EG",
+        "Country": "Egypt"
+    },
+    {
+        "ISO Code": "SK",
+        "Country": "Slovakia"
+    },
+    {
+        "ISO Code": "SN",
+        "Country": "Senegal"
+    },
+    {
+        "ISO Code": "DK",
+        "Country": "Denmark"
+    },
+    {
+        "ISO Code": "FI",
+        "Country": "Finland"
+    },
+    {
+        "ISO Code": "CM",
+        "Country": "Cameroon"
+    },
+    {
+        "ISO Code": "IR",
+        "Country": "Iran"
+    },
+    {
+        "ISO Code": "AR",
+        "Country": "Argentina"
+    },
+    {
+        "ISO Code": "CA",
+        "Country": "Canada"
+    },
+    {
+        "ISO Code": "SG",
+        "Country": "Singapore"
+    },
+    {
+        "ISO Code": "PK",
+        "Country": "Pakistan"
+    },
+    {
+        "ISO Code": "GH",
+        "Country": "Ghana"
+    },
+    {
+        "ISO Code": "LB",
+        "Country": "Lebanon"
+    },
+    {
+        "ISO Code": "IE",
+        "Country": "Ireland"
+    },
+    {
+        "ISO Code": "AO",
+        "Country": "Angola"
+    },
+    {
+        "ISO Code": "NO",
+        "Country": "Norway"
+    },
+    {
+        "ISO Code": "BY",
+        "Country": "Belarus"
+    },
+    {
+        "ISO Code": "BR",
+        "Country": "Brazil"
+    },
+    {
+        "ISO Code": "MX",
+        "Country": "Mexico"
+    },
+    {
+        "ISO Code": "CO",
+        "Country": "Colombia"
+    },
+    {
+        "ISO Code": "KE",
+        "Country": "Kenya"
+    },
+    {
+        "ISO Code": "CL",
+        "Country": "Chile"
+    },
+    {
+        "ISO Code": "KW",
+        "Country": "Kuwait"
+    },
+    {
+        "ISO Code": "AL",
+        "Country": "Albania"
+    },
+    {
+        "ISO Code": "VE",
+        "Country": "Venezuela"
+    },
+    {
+        "ISO Code": "RE",
+        "Country": "Reunion"
+    },
+    {
+        "ISO Code": "BA",
+        "Country": "Bosnia and Herzegovina"
+    },
+    {
+        "ISO Code": "IL",
+        "Country": "Israel"
+    },
+    {
+        "ISO Code": "TW",
+        "Country": "Taiwan"
+    },
+    {
+        "ISO Code": "SI",
+        "Country": "Slovenia"
+    },
+    {
+        "ISO Code": "KZ",
+        "Country": "Kazakhstan"
+    },
+    {
+        "ISO Code": "PE",
+        "Country": "Peru"
+    },
+    {
+        "ISO Code": "AZ",
+        "Country": "Azerbaijan"
+    },
+    {
+        "ISO Code": "AE",
+        "Country": "United Arab Emirates"
+    },
+    {
+        "ISO Code": "CY",
+        "Country": "Cyprus"
+    },
+    {
+        "ISO Code": "LT",
+        "Country": "Lithuania"
+    },
+    {
+        "ISO Code": "DO",
+        "Country": "Dominican Republic"
+    },
+    {
+        "ISO Code": "JO",
+        "Country": "Jordan"
+    },
+    {
+        "ISO Code": "MD",
+        "Country": "Moldova"
+    },
+    {
+        "ISO Code": "BJ",
+        "Country": "Benin"
+    },
+    {
+        "ISO Code": "BG",
+        "Country": "Bulgaria"
+    },
+    {
+        "ISO Code": "CD",
+        "Country": "Democratic Republic of the Congo"
+    },
+    {
+        "ISO Code": "HR",
+        "Country": "Croatia"
+    },
+    {
+        "ISO Code": "LV",
+        "Country": "Latvia"
+    },
+    {
+        "ISO Code": "HK",
+        "Country": "Hong Kong"
+    },
+    {
+        "ISO Code": "MZ",
+        "Country": "Mozambique"
+    },
+    {
+        "ISO Code": "AU",
+        "Country": "Australia"
+    },
+    {
+        "ISO Code": "LU",
+        "Country": "Luxembourg"
+    },
+    {
+        "ISO Code": "UG",
+        "Country": "Uganda"
+    },
+    {
+        "ISO Code": "ML",
+        "Country": "Mali"
+    },
+    {
+        "ISO Code": "BF",
+        "Country": "Burkina Faso"
+    },
+    {
+        "ISO Code": "MU",
+        "Country": "Mauritius"
+    },
+    {
+        "ISO Code": "OM",
+        "Country": "Oman"
+    },
+    {
+        "ISO Code": "TG",
+        "Country": "Togo"
+    },
+    {
+        "ISO Code": "QA",
+        "Country": "Qatar"
+    },
+    {
+        "ISO Code": "MK",
+        "Country": "Macedonia"
+    },
+    {
+        "ISO Code": "MG",
+        "Country": "Madagascar"
+    },
+    {
+        "ISO Code": "VN",
+        "Country": "Vietnam"
+    },
+    {
+        "ISO Code": "GA",
+        "Country": "Gabon"
+    },
+    {
+        "ISO Code": "EE",
+        "Country": "Estonia"
+    },
+    {
+        "ISO Code": "IQ",
+        "Country": "Iraq"
+    },
+    {
+        "ISO Code": "MT",
+        "Country": "Malta"
+    },
+    {
+        "ISO Code": "BH",
+        "Country": "Bahrain"
+    },
+    {
+        "ISO Code": "TZ",
+        "Country": "Tanzania"
+    },
+    {
+        "ISO Code": "EC",
+        "Country": "Ecuador"
+    },
+    {
+        "ISO Code": "GE",
+        "Country": "Georgia"
+    },
+    {
+        "ISO Code": "AM",
+        "Country": "Armenia"
+    },
+    {
+        "ISO Code": "SD",
+        "Country": "Sudan"
+    },
+    {
+        "ISO Code": "ET",
+        "Country": "Ethiopia"
+    },
+    {
+        "ISO Code": "MM",
+        "Country": "Myanmar"
+    },
+    {
+        "ISO Code": "ME",
+        "Country": "Montenegro"
+    },
+    {
+        "ISO Code": "SY",
+        "Country": "Syria"
+    },
+    {
+        "ISO Code": "UZ",
+        "Country": "Uzbekistan"
+    },
+    {
+        "ISO Code": "ZW",
+        "Country": "Zimbabwe"
+    },
+    {
+        "ISO Code": "DJ",
+        "Country": "Djibouti"
+    },
+    {
+        "ISO Code": "LK",
+        "Country": "Sri Lanka"
+    },
+    {
+        "ISO Code": "BD",
+        "Country": "Bangladesh"
+    },
+    {
+        "ISO Code": "SH",
+        "Country": "Saint Helena"
+    },
+    {
+        "ISO Code": "BW",
+        "Country": "Botswana"
+    },
+    {
+        "ISO Code": "CV",
+        "Country": "Cape Verde"
+    },
+    {
+        "ISO Code": "BO",
+        "Country": "Bolivia"
+    },
+    {
+        "ISO Code": "YE",
+        "Country": "Yemen"
+    },
+    {
+        "ISO Code": "RW",
+        "Country": "Rwanda"
+    },
+    {
+        "ISO Code": "IS",
+        "Country": "Iceland"
+    },
+    {
+        "ISO Code": "LY",
+        "Country": "Libya"
+    },
+    {
+        "ISO Code": "NE",
+        "Country": "Niger"
+    },
+    {
+        "ISO Code": "AD",
+        "Country": "Andorra"
+    },
+    {
+        "ISO Code": "GM",
+        "Country": "Gambia"
+    },
+    {
+        "ISO Code": "CG",
+        "Country": "Republic of the Congo"
+    },
+    {
+        "ISO Code": "ZM",
+        "Country": "Zambia"
+    },
+    {
+        "ISO Code": "AF",
+        "Country": "Afghanistan"
+    },
+    {
+        "ISO Code": "NA",
+        "Country": "Namibia"
+    },
+    {
+        "ISO Code": "MR",
+        "Country": "Mauritania"
+    },
+    {
+        "ISO Code": "UY",
+        "Country": "Uruguay"
+    },
+    {
+        "ISO Code": "CR",
+        "Country": "Costa Rica"
+    },
+    {
+        "ISO Code": "KG",
+        "Country": "Kyrgyzstan"
+    },
+    {
+        "ISO Code": "PA",
+        "Country": "Panama"
+    },
+    {
+        "ISO Code": "NP",
+        "Country": "Nepal"
+    },
+    {
+        "ISO Code": "GN",
+        "Country": "Guinea"
+    },
+    {
+        "ISO Code": "GP",
+        "Country": "Guadeloupe"
+    },
+    {
+        "ISO Code": "GQ",
+        "Country": "Equatorial Guinea"
+    },
+    {
+        "ISO Code": "MQ",
+        "Country": "Martinique"
+    },
+    {
+        "ISO Code": "SC",
+        "Country": "Seychelles"
+    },
+    {
+        "ISO Code": "CU",
+        "Country": "Cuba"
+    },
+    {
+        "ISO Code": "NZ",
+        "Country": "New Zealand"
+    },
+    {
+        "ISO Code": "GT",
+        "Country": "Guatemala"
+    },
+    {
+        "ISO Code": "MC",
+        "Country": "Monaco"
+    },
+    {
+        "ISO Code": "MV",
+        "Country": "Maldives"
+    },
+    {
+        "ISO Code": "MW",
+        "Country": "Malawi"
+    },
+    {
+        "ISO Code": "SV",
+        "Country": "El Salvador"
+    },
+    {
+        "ISO Code": "GF",
+        "Country": "French Guiana"
+    },
+    {
+        "ISO Code": "SL",
+        "Country": "Sierra Leone"
+    },
+    {
+        "ISO Code": "LR",
+        "Country": "Liberia"
+    },
+    {
+        "ISO Code": "NI",
+        "Country": "Nicaragua"
+    },
+    {
+        "ISO Code": "KH",
+        "Country": "Cambodia"
+    },
+    {
+        "ISO Code": "TJ",
+        "Country": "Tajikistan"
+    },
+    {
+        "ISO Code": "PR",
+        "Country": "Puerto Rico"
+    },
+    {
+        "ISO Code": "BI",
+        "Country": "Burundi"
+    },
+    {
+        "ISO Code": "PY",
+        "Country": "Paraguay"
+    },
+    {
+        "ISO Code": "KM",
+        "Country": "Comoros"
+    },
+    {
+        "ISO Code": "LS",
+        "Country": "Lesotho"
+    },
+    {
+        "ISO Code": "SO",
+        "Country": "Somalia"
+    },
+    {
+        "ISO Code": "HN",
+        "Country": "Honduras"
+    },
+    {
+        "ISO Code": "TD",
+        "Country": "Chad"
+    },
+    {
+        "ISO Code": "GI",
+        "Country": "Gibraltar"
+    },
+    {
+        "ISO Code": "BN",
+        "Country": "Brunei"
+    },
+    {
+        "ISO Code": "SM",
+        "Country": "San Marino"
+    },
+    {
+        "ISO Code": "JE",
+        "Country": "Jersey"
+    },
+    {
+        "ISO Code": "SZ",
+        "Country": "Swaziland"
+    },
+    {
+        "ISO Code": "TM",
+        "Country": "Turkmenistan"
+    },
+    {
+        "ISO Code": "NC",
+        "Country": "New Caledonia"
+    },
+    {
+        "ISO Code": "MN",
+        "Country": "Mongolia"
+    },
+    {
+        "ISO Code": "LI",
+        "Country": "Liechtenstein"
+    },
+    {
+        "ISO Code": "GL",
+        "Country": "Greenland"
+    },
+    {
+        "ISO Code": "BT",
+        "Country": "Bhutan"
+    },
+    {
+        "ISO Code": "PF",
+        "Country": "French Polynesia"
+    },
+    {
+        "ISO Code": "ST",
+        "Country": "Sao Tome and Principe"
+    },
+    {
+        "ISO Code": "YT",
+        "Country": "Mayotte"
+    },
+    {
+        "ISO Code": "FO",
+        "Country": "Faroe Islands"
+    },
+    {
+        "ISO Code": "JM",
+        "Country": "Jamaica"
+    },
+    {
+        "ISO Code": "HT",
+        "Country": "Haiti"
+    },
+    {
+        "ISO Code": "BS",
+        "Country": "Bahamas"
+    },
+    {
+        "ISO Code": "GW",
+        "Country": "Guinea-Bissau"
+    },
+    {
+        "ISO Code": "FJ",
+        "Country": "Fiji"
+    },
+    {
+        "ISO Code": "GG",
+        "Country": "Guernsey"
+    },
+    {
+        "ISO Code": "LA",
+        "Country": "Laos"
+    },
+    {
+        "ISO Code": "TL",
+        "Country": "East Timor"
+    },
+    {
+        "ISO Code": "TT",
+        "Country": "Trinidad and Tobago"
+    },
+    {
+        "ISO Code": "AG",
+        "Country": "Antigua and Barbuda"
+    },
+    {
+        "ISO Code": "EH",
+        "Country": "Western Sahara"
+    },
+    {
+        "ISO Code": "CF",
+        "Country": "Central African Republic"
+    },
+    {
+        "ISO Code": "PW",
+        "Country": "Palau"
+    },
+    {
+        "ISO Code": "IM",
+        "Country": "Isle of Man"
+    },
+    {
+        "ISO Code": "AW",
+        "Country": "Aruba"
+    },
+    {
+        "ISO Code": "BZ",
+        "Country": "Belize"
+    },
+    {
+        "ISO Code": "AS",
+        "Country": "American Samoa"
+    },
+    {
+        "ISO Code": "AI",
+        "Country": "Anguilla"
+    },
+    {
+        "ISO Code": "MP",
+        "Country": "Northern Mariana Islands"
+    },
+    {
+        "ISO Code": "BM",
+        "Country": "Bermuda"
+    },
+    {
+        "ISO Code": "ER",
+        "Country": "Eritrea"
+    },
+    {
+        "ISO Code": "SR",
+        "Country": "Suriname"
+    },
+    {
+        "ISO Code": "VG",
+        "Country": "British Virgin Islands"
+    },
+    {
+        "ISO Code": "VI",
+        "Country": "U.S. Virgin Islands"
+    },
+    {
+        "ISO Code": "GY",
+        "Country": "Guyana"
+    },
+    {
+        "ISO Code": "BB",
+        "Country": "Barbados"
+    },
+    {
+        "ISO Code": "MH",
+        "Country": "Marshall Islands"
+    },
+    {
+        "ISO Code": "MO",
+        "Country": "Macao"
+    },
+    {
+        "ISO Code": "PG",
+        "Country": "Papua New Guinea"
+    },
+    {
+        "ISO Code": "KY",
+        "Country": "Cayman Islands"
+    },
+    {
+        "ISO Code": "KI",
+        "Country": "Kiribati"
+    },
+    {
+        "ISO Code": "AN",
+        "Country": "Netherlands Antilles"
+    },
+    {
+        "ISO Code": "CK",
+        "Country": "Cook Islands"
+    },
+    {
+        "ISO Code": "GU",
+        "Country": "Guam"
+    },
+    {
+        "ISO Code": "WF",
+        "Country": "Wallis and Futuna"
+    },
+    {
+        "ISO Code": "PS",
+        "Country": "Palestine"
+    },
+    {
+        "ISO Code": "TC",
+        "Country": "Turks and Caicos Islands"
+    },
+    {
+        "ISO Code": "VU",
+        "Country": "Vanuatu"
+    },
+    {
+        "ISO Code": "LC",
+        "Country": "Saint Lucia"
+    },
+    {
+        "ISO Code": "TO",
+        "Country": "Tonga"
+    },
+    {
+        "ISO Code": "CC",
+        "Country": "Cocos Islands"
+    },
+    {
+        "ISO Code": "WS",
+        "Country": "Samoa"
+    },
+    {
+        "ISO Code": "GD",
+        "Country": "Grenada"
+    },
+    {
+        "ISO Code": "VA",
+        "Country": "Vatican"
+    },
+    {
+        "ISO Code": "IO",
+        "Country": "British Indian Ocean Territory"
+    },
+    {
+        "ISO Code": "FM",
+        "Country": "Micronesia"
+    },
+    {
+        "ISO Code": "NU",
+        "Country": "Niue"
+    },
+    {
+        "ISO Code": "BL",
+        "Country": "Saint Barthelemy"
+    },
+    {
+        "ISO Code": "KN",
+        "Country": "Saint Kitts and Nevis"
+    },
+    {
+        "ISO Code": "PM",
+        "Country": "Saint Pierre and Miquelon"
+    },
+    {
+        "ISO Code": "FK",
+        "Country": "Falkland Islands"
+    },
+    {
+        "ISO Code": "AQ",
+        "Country": "Antarctica"
+    },
+    {
+        "ISO Code": "PN",
+        "Country": "Pitcairn"
+    },
+    {
+        "ISO Code": "MF",
+        "Country": "Saint Martin"
+    },
+    {
+        "ISO Code": "TV",
+        "Country": "Tuvalu"
+    },
+    {
+        "ISO Code": "VC",
+        "Country": "Saint Vincent and the Grenadines"
+    },
+    {
+        "ISO Code": "DM",
+        "Country": "Dominica"
+    },
+    {
+        "ISO Code": "SB",
+        "Country": "Solomon Islands"
+    },
+    {
+        "ISO Code": "TK",
+        "Country": "Tokelau"
+    },
+    {
+        "ISO Code": "NF",
+        "Country": "Norfolk Island"
+    },
+    {
+        "ISO Code": "CX",
+        "Country": "Christmas Island"
+    },
+    {
+        "ISO Code": "NR",
+        "Country": "Nauru"
+    },
+    {
+        "ISO Code": "SJ",
+        "Country": "Svalbard and Jan Mayen"
+    },
+    {
+        "ISO Code": "MS",
+        "Country": "Montserrat"
+    },
+    {
+        "ISO Code": "KP",
+        "Country": "North Korea"
+    },
+    {
+        "ISO Code": "GS",
+        "Country": "South Georgia And Sandwich Isl."
+    },
+    {
+        "ISO Code": "BV",
+        "Country": "Bouvet Island"
+    }
+]
