@@ -15,19 +15,20 @@ countryList.forEach((country) => {
 });
 
 //Add locally stored queries
-console.log(localStorage.length);
-for (let i = 1; i <= localStorage.length; i++) {
-  let oldEntry = document.createElement("div");
-  oldEntry.innerText = localStorage.getItem(`entry${i}`);
-  document.body.append(oldEntry);
-}
+// console.log(localStorage.length);
+// for (let i = 1; i <= localStorage.length; i++) {
+//   let oldEntry = document.createElement("div");
+//   oldEntry.innerText = localStorage.getItem(`entry${i}`);
+//   document.body.append(oldEntry);
+// }
 
 //Fetches the object arguments from the API
 const fetchName = (name, country) =>
   fetch(`https://api.agify.io/?name=${name}&country_id=${country}`);
 
-//Fetches the arguments from the fetchName function and displays the average age and population for a specific name
 
+
+//Fetches the arguments from the fetchName function and displays the average age and population for a specific name
 const fetchInfo = (name, country) => {
   fetchName(name, country)
     .then((response) => response.json())
@@ -47,7 +48,14 @@ const fetchInfo = (name, country) => {
           ].id
         }`;
         newLog.append(newEntry);
-        localStorage.setItem(`entry${localStorage.length + 1}`, newEntry);
+        
+        let newQuery = {}
+        newQuery.name = json.name
+        newQuery.age = json.age
+        newQuery.count = json.count
+        newQuery.country = json.country_id
+        localStorage.setItem(`newQuery${localStorage.length + 1}`, JSON.stringify(newQuery))
+        // localStorage.setItem(`entry${localStorage.length + 1}`, newEntry);
         document.body.append(newLog);
       }
     })
@@ -60,6 +68,11 @@ const fetchInfo = (name, country) => {
 button.addEventListener("click", (e) => {
   const nameInput = document.querySelector("input").value;
   const countrySelect = document.getElementById("country-select").value;
+
+    // for (let i=1;i<=localStorage.length;i++){
+
+    //   }
+  
   fetchInfo(nameInput, countrySelect);
 });
 
